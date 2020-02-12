@@ -1,0 +1,3 @@
+exiftool
+
+hex -> rot47 -> Text

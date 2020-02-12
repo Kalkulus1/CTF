@@ -1,0 +1,9 @@
+Reconnaissance first.
+Try the ports.
+Get a username somewhere.
+Bruteforce your way out to get the password. Hydra is your friend.
+
+Bruteforce command: hydra -l username -P passwordlist ipaddress ssh
+
+Log in with: ssh username@ipaddress
+

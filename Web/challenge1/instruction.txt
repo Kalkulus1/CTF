@@ -1,0 +1,2 @@
+WordPress Attack
+wpscan will be of great help. Search for usernames and brute force to get the password. The password is the flag. Put the flag in ASH{password}

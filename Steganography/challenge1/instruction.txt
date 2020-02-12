@@ -1,0 +1,3 @@
+exiftool
+
+ASCII -> Text
